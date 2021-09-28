@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/icholy/digest/internal/param"
+	"github.com/martende/digest/internal/param"
 )
 
 // Challenge is a challenge sent in the WWW-Authenticate header

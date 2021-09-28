@@ -1,4 +1,4 @@
-module github.com/icholy/digest
+module github.com/martende/digest
 
 go 1.16
 

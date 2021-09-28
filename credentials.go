@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/icholy/digest/internal/param"
+	"github.com/martende/digest/internal/param"
 )
 
 // Credentials is a parsed version of the Authorization header

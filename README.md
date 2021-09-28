@@ -10,7 +10,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/icholy/digest"
+	"github.com/martende/digest"
 )
 
 func main() {
@@ -39,7 +39,7 @@ import (
 	"net/http"
 	"net/http/cookiejar"
 
-	"github.com/icholy/digest"
+	"github.com/martende/digest"
 )
 
 func main() {
@@ -67,7 +67,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/icholy/digest"
+	"github.com/martende/digest"
 )
 
 func main() {
@@ -98,7 +98,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/icholy/digest"
+	"github.com/martende/digest"
 )
 
 func main() {
